@@ -81,6 +81,11 @@ nav {
     .mobile-menu {
         display: block;
     } 
+
+    #logo {
+        left: 0;
+        font-size: 20px;
+    }
 }
 
 .nav-list.active {

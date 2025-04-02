@@ -85,3 +85,10 @@ th {
     background: #08276b;
     color: white;
 }
+
+@media screen and (max-width: 999px) {
+    .tabela-valores {
+        overflow-x: scroll;
+    }
+    
+}
